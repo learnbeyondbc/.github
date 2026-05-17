@@ -17,15 +17,7 @@ Written by a developer, for developers.
 
 ## Blog
 
-[learnbeyondbc.com](https://learnbeyondbc.com) - Long-form technical content going beyond the official docs.
-
-Active series:
-
-- **Base App Codeunit Deep-Dive** - How core BC codeunits actually work under the hood
-- **OAuth2 Series** - OAuth2 authentication flows in Business Central extensions (5 parts)
-- **Exchange Rate API** - Building a custom exchange rate integration with interface and enum dispatch
-- **GDAP** - Granular Delegated Admin Privileges in BC partner workflows
-- **Postman + Azure DevOps** - Syncing and automating Postman collections in a CI/CD pipeline
+[learnbeyondbc.com](https://learnbeyondbc.com) - Long-form technical content going beyond the official docs. Covers base app codeunit deep dives, OAuth2 automation, API integration patterns, GDAP, and developer tooling.
 
 ## Community
 
