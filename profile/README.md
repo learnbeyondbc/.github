@@ -13,6 +13,8 @@ Written by a developer, for developers.
 
 **[AL Indent Prism](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.al-indent-prism)** - VS Code extension for AL developers. Adds indentation guides and code structure visualization to the AL language. Free on the VS Code Marketplace.
 
+**[BC Docker Manager](https://marketplace.visualstudio.com/items?itemName=jeffreybulanadi.bc-docker-manager)** - VS Code extension for spinning up Business Central Docker containers without PowerShell scripts or BcContainerHelper. Built as a simpler alternative to the CDX/MDX partner experience.
+
 ## Blog
 
 [learnbeyondbc.com](https://learnbeyondbc.com) - Long-form technical content going beyond the official docs.
@@ -27,9 +29,8 @@ Active series:
 
 ## Community
 
-- Microsoft Dynamics 365 Community Super User - Season 2 2025, Season 1 2026
+- Microsoft Dynamics 365 Community Super User - Season 1 2026
 - 3x featured by the Microsoft D365 Community blog
-- 11 consecutive months in the Top 10 leaderboard
 - Filipino BC Developers community organizer
 
 ## About
